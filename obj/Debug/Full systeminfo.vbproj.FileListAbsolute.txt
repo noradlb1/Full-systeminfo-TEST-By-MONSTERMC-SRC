@@ -1,0 +1,23 @@
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\bin\Debug\Full systeminfo.exe.config
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\bin\Debug\Full systeminfo.exe
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\bin\Debug\Full systeminfo.pdb
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\bin\Debug\Full systeminfo.xml
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full systeminfo.vbprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full_systeminfo.Form1.resources
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full_systeminfo.Resources.resources
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full systeminfo.vbproj.GenerateResource.Cache
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full systeminfo.exe
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full systeminfo.xml
+c:\users\richard\documents\visual studio 2015\Projects\Full systeminfo\Full systeminfo\obj\Debug\Full systeminfo.pdb
+C:\Users\MONSTERMC\Desktop\Full systeminfo\bin\Debug\Full systeminfo.exe.config
+C:\Users\MONSTERMC\Desktop\Full systeminfo\bin\Debug\Full systeminfo.exe
+C:\Users\MONSTERMC\Desktop\Full systeminfo\bin\Debug\Full systeminfo.pdb
+C:\Users\MONSTERMC\Desktop\Full systeminfo\bin\Debug\Full systeminfo.xml
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full systeminfo.vbprojAssemblyReference.cache
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full_systeminfo.Form1.resources
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full_systeminfo.Resources.resources
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full systeminfo.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full systeminfo.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full systeminfo.exe
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full systeminfo.xml
+C:\Users\MONSTERMC\Desktop\Full systeminfo\obj\Debug\Full systeminfo.pdb
